@@ -1,2 +1,6 @@
-# Final-test
-Final test for Middle Python Developer (Machine Learning/AI)
+## Task Walkthrough
+Host: localhost
+Port: 5432
+User: postgres
+Password: postgres
+Database: books
